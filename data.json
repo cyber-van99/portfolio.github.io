@@ -1,0 +1,198 @@
+{
+  "personal": {
+    "name": "Pranav Purushan",
+    "tagline": "Aspiring Quantitative Research Associate",
+    "summary": "Analytical and results-driven professional with a proven track record in B2B sales. Currently transitioning into finance, leveraging strong quantitative, research, and communication skills with expertise in automation and data analysis.",
+    "email": "pranavpurushan@gmail.com",
+    "phone": "+91 9967697990",
+    "location": "Navi Mumbai, Maharashtra, India",
+    "linkedin": "https://linkedin.com/in/pranav-purushan0",
+    "github": "https://github.com/pranavpurushan"
+  },
+  "metrics": [
+    {
+      "label": "Hours Saved",
+      "value": "1,200+",
+      "description": "through Excel VBA automation"
+    },
+    {
+      "label": "Extension Users",
+      "value": "500+",
+      "description": "active Chrome extension users"
+    },
+    {
+      "label": "Revenue Generated",
+      "value": "$40K+",
+      "description": "in new business closed"
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Excel VBA",
+      "Python",
+      "JavaScript",
+      "Data Analysis",
+      "Financial Modeling",
+      "PowerPoint Automation",
+      "Chrome Extensions",
+      "SQL",
+      "HTML/CSS"
+    ],
+    "business": [
+      "Business Analysis",
+      "Financial Statement Analysis",
+      "Market Research",
+      "Strategic Planning",
+      "Client Relations",
+      "Presentation Skills",
+      "Report Writing",
+      "Project Management"
+    ],
+    "tools": [
+      "Microsoft Excel",
+      "PowerPoint",
+      "Outlook",
+      "Power BI",
+      "Apollo",
+      "Sales Navigator",
+      "CRM Systems",
+      "AI Tools"
+    ]
+  },
+  "vba_projects": [
+    {
+      "title": "Monthly Reporting Suite",
+      "description": "Comprehensive VBA automation that consolidates departmental data, performs analysis, and generates PowerPoint presentations automatically.",
+      "impact": "90% time reduction (20h → 2h)",
+      "technologies": ["Excel VBA", "PowerPoint API", "Data Analysis"],
+      "features": [
+        "Automated data consolidation from 12 departments",
+        "Real-time calculations and analysis",
+        "PowerPoint generation with charts and tables",
+        "Error handling and audit trail"
+      ]
+    },
+    {
+      "title": "Sales Pipeline Dashboard",
+      "description": "Automated VBA solution for tracking sales metrics, client interactions, and revenue forecasting with real-time updates.",
+      "impact": "95% manual effort eliminated",
+      "technologies": ["Excel VBA", "Pivot Tables", "Data Visualization"],
+      "features": [
+        "Real-time sales tracking",
+        "Interactive pivot tables and charts",
+        "Revenue forecasting models",
+        "Automated client follow-up reminders"
+      ]
+    },
+    {
+      "title": "Financial Analysis Tool",
+      "description": "VBA-powered financial modeling tool for ratio analysis, DCF calculations, and automated report generation.",
+      "impact": "80% faster analysis",
+      "technologies": ["Excel VBA", "Financial Modeling", "Automation"],
+      "features": [
+        "DCF calculations and valuation models",
+        "Automated ratio analysis",
+        "Financial statement parsing",
+        "Professional report generation"
+      ]
+    }
+  ],
+  "chrome_extensions": [
+    {
+      "name": "QuickTab Switcher",
+      "description": "Chrome extension that adds keyboard navigation for pinned tabs, adopted by productivity enthusiasts worldwide.",
+      "users": "500+",
+      "technologies": ["JavaScript", "Chrome API", "UI/UX"],
+      "store_link": "#"
+    },
+    {
+      "name": "Productivity Booster",
+      "description": "Extension that enhances workflow efficiency with smart shortcuts and automation features for better productivity.",
+      "users": "300+",
+      "technologies": ["JavaScript", "DOM Manipulation", "Local Storage"],
+      "store_link": "#"
+    }
+  ],
+  "work_experience": [
+    {
+      "role": "Sales Specialist / Business Development Manager",
+      "company": "Inogic Tech Pvt Ltd",
+      "location": "Mumbai",
+      "duration": "Oct 2024 - Present",
+      "achievements": [
+        "Led B2B sales for Microsoft development services (Dynamics, Power Platform, AI products), focusing on the USA market",
+        "Closed $40,000 USD in new business by identifying high-value prospects and delivering tailored solutions",
+        "Streamlined sales operations by introducing automation tools and data-driven processes",
+        "Engaged directly with C-level clients, conducting needs assessments and presenting customized technology solutions"
+      ]
+    },
+    {
+      "role": "Growth Analyst / Business Development Executive",
+      "company": "Novavente Pvt Ltd",
+      "location": "Mumbai (Hybrid)",
+      "duration": "Oct 2022 - Sep 2024",
+      "achievements": [
+        "Prospected and engaged US-based C-level executives, aligning IT and CRM solutions with business objectives",
+        "Facilitated discovery sessions, gathered requirements, and delivered strategic recommendations",
+        "Promoted IT solutions (CRM systems) to executives, conducting requirement gathering"
+      ]
+    },
+    {
+      "role": "Backend Developer",
+      "company": "OSF Digital Ltd",
+      "location": "Mumbai (Hybrid)",
+      "duration": "Aug 2021 - July 2022",
+      "achievements": [
+        "Collaborated with global teams to ensure seamless backend operations for a leading sporting brand",
+        "Developed and maintained backend services with focus on reliability and performance"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.E (Instrumentation Engineering)",
+      "institution": "Vivekanand Education Society's Institute of Technology, Mumbai",
+      "year": "June 2021",
+      "grade": "7.07 CGPA",
+      "coursework": ["Business Communication Ethics", "Project Management"]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Foundations of Business Strategy",
+      "issuer": "University of Virginia",
+      "description": "Learned key business strategy concepts like SWOT and Five forces, tools to assess market dynamics & develop actionable strategic plans."
+    },
+    {
+      "name": "Fundamentals of Data Analysis in Excel",
+      "issuer": "Corporate Finance Institute",
+      "description": "Developed expertise in Excel-based data analysis, including data transformation, visualization for business applications."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Business Analysis Project - Carysil Ltd.",
+      "status": "Ongoing",
+      "description": "Conducting an in-depth analysis of Carysil Ltd.'s business model, growth drivers, industry cyclicality, and value chain. Reviewing financial statements and industry data to assess competitive positioning and long-term potential."
+    },
+    {
+      "name": "Finplus Program",
+      "status": "Ongoing",
+      "description": "Enrolled in a comprehensive finance program covering financial statement analysis, business analysis, and valuation techniques, with hands-on training in research and modelling."
+    }
+  ],
+  "additional_info": {
+    "interests": [
+      "Finance books and articles",
+      "Global business news",
+      "Market trends analysis",
+      "Quantitative research methods"
+    ],
+    "achievements": [
+      "GRE Score: 313/340 (Quants: 158, Verbal: 155)",
+      "500+ Chrome extension users",
+      "$40K+ revenue generated through sales",
+      "Multiple VBA automation implementations"
+    ]
+  }
+}
